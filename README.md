@@ -24,10 +24,10 @@ Implemented Soluction Full Stack with App been development in React Native for A
 # This is solution will be hosted in Heroku plataform cloud
 - [ ] https://bookapi-rest.herokuapp.com/
 - [ ] call http methods:
--![image](https://user-images.githubusercontent.com/72560588/177440110-68a798db-df1b-4fc1-8d67-c58d08935b93.png)
--![image](https://user-images.githubusercontent.com/72560588/177440219-83ea5f8d-9dc5-4b32-825c-fa2cad1b6361.png)
--Example in http method in cloud Heroku:
--![image](https://user-images.githubusercontent.com/72560588/177440562-ce5015fd-6ec0-4aab-86e1-1afce5d43e2b.png)
+- ![image](https://user-images.githubusercontent.com/72560588/177440110-68a798db-df1b-4fc1-8d67-c58d08935b93.png) <br>
+- ![image](https://user-images.githubusercontent.com/72560588/177440219-83ea5f8d-9dc5-4b32-825c-fa2cad1b6361.png) <br>
+- [ ] Example in http method in cloud Heroku: <br>
+- ![image](https://user-images.githubusercontent.com/72560588/177440562-ce5015fd-6ec0-4aab-86e1-1afce5d43e2b.png)
 
 
 
