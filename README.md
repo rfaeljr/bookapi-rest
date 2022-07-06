@@ -24,5 +24,5 @@ Implemented Soluction Full Stack with App been development in React Native for A
 
 # Contacts of the Developer
 - [ ] e-mail: rafaelcosta@uft.edu.br
-- [ ] whattsapp: (63) 99102-6444
+- [ ] whattsapp: +55(63)99102-6444
 - [ ] linkedin: https://www.linkedin.com/in/rafael-costa-abb622171/
