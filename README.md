@@ -19,6 +19,7 @@ Implemented Soluction Full Stack with App been development in React Native for A
  - [ ] APIs: JPA with Hibernate JPQL. Relationship N:N implemeted, Method with JPQL development
  - [ ] Best practices:
  - MVC patterns, Annotations, Dependency injection
+ - [ ] Project  type maven
 
 # This is solution will be hosted in Heroku plataform cloud
 
