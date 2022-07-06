@@ -22,6 +22,11 @@ Implemented Soluction Full Stack with App been development in React Native for A
  - [ ] Project  type maven
 
 # This is solution will be hosted in Heroku plataform cloud
+- [ ] https://bookapi-rest.herokuapp.com/
+- [ ] call http methods:
+![image](https://user-images.githubusercontent.com/72560588/177440110-68a798db-df1b-4fc1-8d67-c58d08935b93.png)
+![image](https://user-images.githubusercontent.com/72560588/177440219-83ea5f8d-9dc5-4b32-825c-fa2cad1b6361.png)
+
 
 # Contacts of the Developer
 - [ ] e-mail: rafaelcosta@uft.edu.br
