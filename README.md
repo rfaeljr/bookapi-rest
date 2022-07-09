@@ -1,5 +1,5 @@
 # bookapi-rest
-Example of API Rest written with Java with Spring boot
+Example of API Rest written with Java and Spring boot
 Implemented CRUD for Book domain
 
 # Finally Objective:
